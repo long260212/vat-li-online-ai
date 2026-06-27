@@ -1,0 +1,8 @@
+{
+  "name": "Cánh Buồm Tri Thức",
+  "description": "Ứng dụng học tập và luyện tập Vật lí 8 thông minh tích hợp AI dành cho giáo viên và học sinh",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
